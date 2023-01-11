@@ -1,4 +1,4 @@
-Contributing
+Contributing to system design
 ============
 
 Contributions are welcome!
